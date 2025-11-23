@@ -17,4 +17,4 @@ print("answer =",a/b)
 else:
 print("0 not divided)
 else:
-prinr("wrong option select")
+print("wrong option select")
